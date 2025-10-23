@@ -1,0 +1,17 @@
+{
+  "name": "@listenzcc/brain-atlas-gallery",
+  "main": "brain-atlas-app.js",
+  "version": "917.0.0",
+  "homepage": "https://observablehq.com/@listenzcc/brain-atlas-gallery",
+  "author": {
+    "name": "Chuncheng",
+    "url": "https://observablehq.com/@listenzcc"
+  },
+  "type": "module",
+  "scripts": {
+    "server": "npx http-server"
+  },
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
